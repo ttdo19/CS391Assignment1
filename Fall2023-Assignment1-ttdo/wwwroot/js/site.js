@@ -3,3 +3,12 @@
 
 // Write your JavaScript code.
 
+document.body.onload = addSquareAnimation;
+
+function addSquareAnimation() {
+    const squares = document.querySelector('.squares');
+    for (let i = 0; i < 10; i++) {
+        let square = document.createElement("li");
+        squares.appendChild(square); 
+    }
+}

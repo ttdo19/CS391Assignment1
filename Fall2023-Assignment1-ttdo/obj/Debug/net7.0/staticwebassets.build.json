@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1YfvWXtV2UFM7BpSgWnPVUWn738poApStDC9DcBylho=",
+  "Hash": "MNJSyCdx0Ey8NWTDkU9651OsTbkD7dOhbZQlVKJP7fc=",
   "Source": "Fall2023-Assignment1-ttdo",
   "BasePath": "_content/Fall2023-Assignment1-ttdo",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/obj/Debug/net7.0/scopedcss/projectbundle/Fall2023-Assignment1-ttdo.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/wwwroot/.DS_Store",
+      "SourceId": "Fall2023-Assignment1-ttdo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/wwwroot/",
+      "BasePath": "_content/Fall2023-Assignment1-ttdo",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/wwwroot/css/site.css",

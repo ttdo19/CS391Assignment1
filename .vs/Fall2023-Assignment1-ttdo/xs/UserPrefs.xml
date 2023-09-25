@@ -1,4 +1,43 @@
 ﻿<Properties StartupConfiguration="{2F8EB267-E39C-415A-B965-4924DFC1B344}|https">
-  <MonoDevelop.Ide.ItemProperties.Fall2023-Assignment1-ttdo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Fall2023-Assignment1-ttdo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fall2023-Assignment1-ttdo/wwwroot/Index.html">
+    <Files>
+      <File FileName="Fall2023-Assignment1-ttdo/Program.cs" Line="17" Column="23" />
+      <File FileName="Fall2023-Assignment1-ttdo/wwwroot/EmptyHtmlFile.html" Line="14" Column="22" />
+      <File FileName="Fall2023-Assignment1-ttdo/wwwroot/css/site.css" Line="51" Column="17" />
+      <File FileName="Fall2023-Assignment1-ttdo/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Privacy.cshtml" Line="10" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+      <File FileName="Fall2023-Assignment1-ttdo/wwwroot/lib/jquery/dist/jquery.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall2023-Assignment1-ttdo" expanded="True">
+            <Node name="Fall2023-Assignment1-ttdo">
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="index.html" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

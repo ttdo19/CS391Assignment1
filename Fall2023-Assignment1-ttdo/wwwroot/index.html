@@ -2,16 +2,37 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Favorite TV Series</title>
+    <link rel="stylesheet" href="../css/site.css">
+    <script src="js/site.js"defer></script>
 </head>
 <body>
+    
     <div class="wrapper">
-        <h1 class="Title">Title</h1>
-        <img id="CoverArt" />
-        <h5 id="Rating"></h5>
-        <iframe id="Trailer"></iframe>
-        <a></a>
-        <p></p>
+        <div class="area">
+            <ul class="squares">
+            </ul>
+        </div>
+        <img class="backdrop" src="https://image.tmdb.org/t/p/w1280/5BMwFwNzSidVYArn561acqtktxv.jpg" alt="Backdrop" />
+        <img id="CoverArt" src="https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg" alt="Poster" />
+        <div class="movie-highlight">
+            <h1 class="Title">How I Met Your Mother</h1>
+            <h5 id="Rating">IMDb Rating: 8.3/10</h5>
+            <h5 class="release-date">First Air Date: 2005-09-19</h5>
+        </div>
+        <h2>Trailer</h2>
+        <iframe id="Trailer" width="1163" height="654" src="https://www.youtube.com/embed/cjJLEYMzpjc" title="How I Met Your Mother | Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a href="https://www.imdb.com/title/tt0460649/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_how%2520i%2520m" target="_blank">Click here to read full review</a>
+        <h2>Overview</h2>
+        <p id="Summary">A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.</p>
+        <h2>Actors</h2>
+        <ul id="Actors">
+            <li>Josh Radnor</li>
+            <li>Cobie Smulders</li>
+            <li>Neil Patrick Harris</li>
+            <li>Jason Segel</li>
+            <li>Alyson Hannigan</li>
+        </ul>
     </div>
 </body>
 </html>

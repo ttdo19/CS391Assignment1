@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Fall2023-Assignment1-ttdo.bundle.scp.css"
     },
     {
+      "Id": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/trangdo/Projects/Fall2023-Assignment1-ttdo/Fall2023-Assignment1-ttdo/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
