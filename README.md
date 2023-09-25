@@ -1,6 +1,6 @@
 # CS391Assignment1
 
-##Requirements
+## Requirements
 
 Find a movie or TV series that you are a fan of and employ the following HTML/CSS features:
 A background color for the entire page of your choosing.
